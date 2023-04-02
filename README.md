@@ -4,3 +4,5 @@ This repository is a starter for using the web to print library [PagedJs](https:
 This uses the PagedJS npm package configured to work as the [polyfill js file](https://unpkg.com/browse/pagedjs@0.4.1/dist/) except without the autoloading of the polyfill.
 
 We used this setup to build the [hybrid.publishing.systems](https://hybrid.publishing.systems) frontend in the course Hybrid Publishing at the University of Applied Sciences Mainz.
+
+If you want to have booklet imposition, you can use [this official plugin](https://gitlab.coko.foundation/pagedjs/pagedjs-plugins/booklet-imposition)
